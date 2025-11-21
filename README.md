@@ -551,8 +551,9 @@ Contributions are welcome! Please read CONTRIBUTING.md for guidelines.
 For issues and questions:
 
 Open an issue on GitHub
-Email: sahilburele6789@gmail.com
+Email: saumyamallelwar28@gmail.com
 Documentation: https://docs.example.com
+
 
 
 Built with ❤️ using Node.js, Redis, and PostgreSQL
